@@ -1,7 +1,8 @@
-BendHat
+BendHat - Data Science student 
 
-Data Science student 
+
 Cybersecurity experience 
+
 
 This folder will contain some open source projects related to data science and cybersecurity 
 
